@@ -16,6 +16,7 @@ int main(int argc, const char * argv[]) {
         for(j = 1; j <= 9; j++)
             printf("%3d", i * j);
         println("print for test");
+        println("print for test2");
         putchar('\n');
     }
     
