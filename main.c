@@ -17,6 +17,7 @@ int main(int argc, const char * argv[]) {
             printf("%3d", i * j);
         println("print for test");
         println("print for test2");
+        println("print for test3");
         putchar('\n');
     }
     
